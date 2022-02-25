@@ -10,6 +10,7 @@ SWU__DOMReady(function() {
   el.style.width = '300px'
   el.style.height = '84px'
   el.style.transform = 'rotate(45deg)'
+  el.style.zIndex = '999'
   el.style.background = 'linear-gradient(-180deg, #005BBB 50%, #FFD500 50%)'
   document.body.appendChild(el)
 });
