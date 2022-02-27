@@ -32,6 +32,15 @@ The website badge also has the ability to support additonal customizable paramet
     (string) The position in which the badge should be displayed
 
     Default: ```'left'```
+    
+    
+ #### Example
+ 
+ ```javascript
+ let ukr_badge_title = 'We support Ukraine'
+ let ukr_badge_url = 'https://www.gofundme.com/f/helpukraine'
+ let ukr_badge_position = 'right'
+ ```
 
 
 ### Preview
