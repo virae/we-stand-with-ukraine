@@ -3,11 +3,7 @@ var SWU__DOMReady = function(callback) {
 };
 SWU__DOMReady(function() {
   const el = document.createElement('div')
-  if (typeof ukr_badge_title !== "undefined" && ukr_badge_title) {
-    el.title = ukr_badge_title
-  } else {
-    el.title = 'We stand with Ukraine'
-  }
+  el.title = ukr_badge_title ? ukr_badge_title : 'We stand with Ukraine'
   if (typeof ukr_badge_url !== "undefined" && ukr_badge_url) {
     el.style.cursor = 'pointer'
     el.target = '_blank'
