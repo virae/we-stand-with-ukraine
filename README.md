@@ -4,7 +4,7 @@ A simple website badge to show your support for Ukraine.
 
 ### Installation
 ```
-<script src="https://cdn.jsdelivr.net/gh/austin-dudzik/we-stand-with-ukraine@v1.0.2/badge.js" async></script>
+<script src="https://cdn.jsdelivr.net/gh/virae/we-stand-with-ukraine@v1.0.1/badge.js" async></script>
 ```
 
 ### Parameters
