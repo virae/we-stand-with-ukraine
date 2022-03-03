@@ -4,7 +4,7 @@ A simple website badge to show your support for Ukraine.
 
 ### Installation
 ```
-<script src="https://cdn.jsdelivr.net/gh/virae/we-stand-with-ukraine@master/badge.js" async></script>
+<script src="https://cdn.jsdelivr.net/gh/virae/we-stand-with-ukraine@v1.0.2/badge.js" async></script>
 ```
 
 ### Parameters
@@ -34,7 +34,7 @@ You can customize the badge with additional parameters by setting script attribu
     Default: ```'left'```
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/virae/we-stand-with-ukraine@master/badge.js" title="Help Urkaine Win" url="https://example.com" position="right" async></script>
+<script src="https://cdn.jsdelivr.net/gh/virae/we-stand-with-ukraine@v1.0.2/badge.js" title="Help Urkaine Win" url="https://example.com" position="right" async></script>
 ```
 
 ### Preview
