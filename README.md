@@ -9,7 +9,7 @@ add the script below to your ```<body> ``` tag
 ```
 
 # Self hosting Installation
-Go to the [badge.js](https://github.com/virae/we-stand-with-ukraine/blob/master/badge.js) file in the repository and copy the code in the file and paste all of the code it  the ```<body> ``` tag 
+Go to the [badge.js](https://github.com/virae/we-stand-with-ukraine/blob/master/badge.js) file in the repository copy all the code and paste it in the ``` <body> ```  tag
 
 
 ### Preview
