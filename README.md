@@ -34,7 +34,7 @@ You can customize the badge with additional parameters by setting script attribu
     Default: ```'left'```
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/virae/we-stand-with-ukraine@v1.0.2/badge.js" title="Help Urkaine Win" url="https://standforukraine.com" position="right" async></script>
+<script src="https://cdn.jsdelivr.net/gh/virae/we-stand-with-ukraine@v1.0.2/badge.js" title="Help Ukraine Win" url="https://standforukraine.com" position="right" async></script>
 ```
 
 ### Preview
