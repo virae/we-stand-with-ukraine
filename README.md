@@ -2,7 +2,8 @@
 
 A simple website badge to show your support for Ukraine.
 
-### Installation
+###  Easy Installation
+add the script below to your ```<body> ``` tag 
 ```
 <script src="https://cdn.jsdelivr.net/gh/virae/we-stand-with-ukraine@v1.0.2/badge.js" async></script>
 ```
@@ -36,6 +37,10 @@ You can customize the badge with additional parameters by setting script attribu
 ```
 <script src="https://cdn.jsdelivr.net/gh/virae/we-stand-with-ukraine@v1.0.2/badge.js" title="Help Ukraine Win" url="https://standforukraine.com" position="right" async></script>
 ```
+
+# Self hosting Installation
+Go to the [badge.js](https://github.com/virae/we-stand-with-ukraine/blob/master/badge.js) file in the repository copy all the code and paste it in the ``` <body> ```  tag
+
 
 ### Preview
 ![](https://github.com/virae/we-stand-with-ukraine/raw/master/preview.png)
